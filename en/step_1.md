@@ -4,11 +4,9 @@
 
 In a Google Chrome web browser window, navigate to the Crumble software download page, https://redfernelectronics.co.uk/crumble-software/.
 
-Click on the Mac OS X download image.
-
 ![Crumble download page](images/crumble_mac_download.png)
 
-At the bottom left of the page in the file download tab, click on the upward arrow and choose open.
+Click on the Mac OS X download image.
 
 --- no-print ---
 
@@ -22,7 +20,7 @@ At the bottom left of the page in the file download tab, click on the upward arr
 
 --- /print-only ---
 
-A window will open prompting you to drag the Crumble program file into the Applications folder.
+At the bottom left of the page in the file download tab, click on the upward arrow and choose open.
 
 --- no-print ---
 
@@ -35,6 +33,8 @@ A window will open prompting you to drag the Crumble program file into the Appli
 ![Dragging the Crumbel program file](images/drag_mac_program.png)
 
 --- /print-only ---
+
+A window will open prompting you to drag the Crumble program file into the Applications folder.
 
 Depending on your Mac's security settings, you may get a pop up window saying that Crumble cannot be opened because the developer cannot be confirmed. If this happens, Click OK.
 
