@@ -1,58 +1,51 @@
-## Introduction
+## Installing Crumble software on Mac OS X
 
-Add project description here. What will learners be making?
+--- task ---
 
-### What you will make
+In a Google Chrome web browser window, navigate to the Crumble software download page, https://redfernelectronics.co.uk/crumble-software/.
+
+Click on the Mac OS X download image.
+
+![Crumble download page](images/crumble_mac_download.png)
+
+At the bottom left of the page in the file download tab, click on the upward arrow and choose open.
 
 --- no-print ---
-Add instructions for using the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![Opening downloaded DMG file](images/open_mac_install.gif)
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![Opening downloaded DMG file](images/open_mac_install.png)
+
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+A window will open prompting you to drag the Crumble program file into the Applications folder.
 
-+ Describe hardware here
+--- no-print ---
 
-### Software
+![Dragging the Crumbel program file](images/drag_mac_program.gif)
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- /no-print ---
 
-### Downloads
+--- print-only ---
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+![Dragging the Crumbel program file](images/drag_mac_program.png)
 
---- /collapse ---
+--- /print-only ---
 
---- collapse ---
----
-title: What you will learn
----
+![Crumble security check](images/crumble_security_issue.png)
 
-+ Two or three learning objectives
-+ ...should go here
+![Mac Settings home](images/mac_settings.png)
 
---- /collapse ---
+![Mac Settings Security](images/mac_security.png)
 
---- collapse ---
----
-title: Additional information for educators
----
+![Mac System password check](images/mac_system_password.png)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+![Mac Settings Security open Crumble](images/mac_security_open.png)
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+![Mac Crumble file open](images/mac_crumble_open.png)
 
---- /collapse ---
+--- /task ---
