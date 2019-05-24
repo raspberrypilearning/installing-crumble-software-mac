@@ -1,5 +1,3 @@
-## Installing Crumble software on Mac OS X
-
 --- task ---
 
 In a Google Chrome web browser window, navigate to the Crumble software download page, https://redfernelectronics.co.uk/crumble-software/.
