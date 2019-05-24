@@ -1,5 +1,3 @@
---- task ---
-
 In a Google Chrome web browser window, navigate to the Crumble software download page, https://redfernelectronics.co.uk/crumble-software/.
 
 ![Crumble download page](images/crumble_mac_download.png)
@@ -59,5 +57,3 @@ Once unlocked, click on the Open Anyway button.
 ![Mac Crumble file open](images/mac_crumble_open.png)
 
 Finally, click the Open button and the Crumble software should now open. In future, the Crumble software should open without the need for any security checks.
-
---- /task ---
